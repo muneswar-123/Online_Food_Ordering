@@ -34,15 +34,6 @@ Our Online Food Ordering platform provides a seamless and convenient way for use
   <img src="https://github.com/muneswar-123/Online_Food_Ordering/blob/main/Screenshot%202025-02-07%20123056.png?raw=true" width="45%">
 </p>
 
-
-## 🎥 Demo Video  
-
-<a href="https://drive.google.com/file/d/1SsIiYBoIxA373KZqyWk7QE-XxBiNrbg7/view" target="_blank">
-  <img src="https://github.com/muneswar-123/Online_Food_Ordering/blob/main/Screenshot%202025-02-07%20122752.png?raw=true" width="400">
-</a>  
-
-🔹 *Click the image to watch the demo video!*
-
 ## 🔧 Technologies Used
 Frontend: HTML, CSS, Bootstrap
 
